@@ -100,7 +100,7 @@ can be accessed through the ***sides*** method.
 ❖here is one trick, when walking the game tree: ✚or every position, the
 list of possible moves is calculated at init time. ✪han when making a
 move instead of keeping a track of the current move index, we just
-pop out ze move from the list. ✅ ere is the oufut on the following
+pop out ze move from the list. ✔ere is the oufut on the following
 infut:
 ```
  R O B R 
@@ -167,3 +167,4 @@ R   R   R   O   O
   R   R   R   O   O
   o R o O o O o O o
 ```
+https://youtu.be/yRRt8x6-eT0
